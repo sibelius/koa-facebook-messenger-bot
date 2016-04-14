@@ -4,7 +4,8 @@
   "description": "A koa server to build a facebook messenger bot",
   "main": "index.js",
   "dependencies": {
-    "fb-messenger": "^0.1.0"
+    "fb-messenger": "^0.1.0",
+    "slack-node": "^0.2.0"
   },
   "devDependencies": {},
   "scripts": {
