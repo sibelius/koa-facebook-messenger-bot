@@ -1,6 +1,6 @@
 {
   "name": "koa-facebook-messenger-bot",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A koa server to build a facebook messenger bot",
   "main": "index.js",
   "dependencies": {
