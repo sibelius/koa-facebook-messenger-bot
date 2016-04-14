@@ -1,0 +1,34 @@
+{
+  "name": "koa-facebook-messenger-bot",
+  "version": "0.0.1",
+  "description": "A koa server to build a facebook messenger bot",
+  "main": "index.js",
+  "dependencies": {
+    "fb-messenger": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibeliusseraphini/koa-facebook-messenger-bot.git"
+  },
+  "keywords": [
+    "koa",
+    "koa2",
+    "facebook",
+    "messenger",
+    "bot",
+    "facebook",
+    "messenger",
+    "messenger",
+    "bot"
+  ],
+  "author": "Sibelius Seraphini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sibeliusseraphini/koa-facebook-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/sibeliusseraphini/koa-facebook-messenger-bot#readme"
+}
